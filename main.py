@@ -198,7 +198,7 @@ fingerprint_data = {
 }
 
 ddjskey = "AE3F04AD3F0D3A462481A337485081"
-datadome_cookie_for_payload = ".keep"
+datadome_cookie_for_payload = "nNGehF9mPYh~olywk47_5K9lhBzZbDJS2S2rF~NdPhYMAGRFMHcb125vYsuTSkS2ViuIyxuJwMpV5iih6NSJEBs_Jb7ff5qZGzlYIJ0KRmsnsIuLWoFLixviuLFz~JKQ"
 jsType = "ch"
 eventCounters = []
 refererUrl = "https://account.garena.com/"
