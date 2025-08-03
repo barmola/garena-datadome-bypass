@@ -4,7 +4,7 @@ const fingerprint_data = {
     "log2": "gl,tzp",
     "r3n": 33,
     "glvd": "Google Inc. (NVIDIA)",
-    "glrd": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4050 Laptop GPU (0x000028E1) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "glrd": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1660 Ti (0x2182) Direct3D11 vs_5_0 ps_5_0, D3D11)",
     "nddc": 1,
     "exp8": 0,
     "dp0": false,
@@ -194,7 +194,7 @@ const fingerprint_data = {
 };
 
 const ddjskey = "AE3F04AD3F0D3A462481A337485081";
-const datadome_cookie_for_payload = ".keep"; 
+const datadome_cookie_for_payload = "nNGehF9mPYh~olywk47_5K9lhBzZbDJS2S2rF~NdPhYMAGRFMHcb125vYsuTSkS2ViuIyxuJwMpV5iih6NSJEBs_Jb7ff5qZGzlYIJ0KRmsnsIuLWoFLixviuLFz~JKQ"; 
 const jsType = "ch";
 const eventCounters = [];
 const refererUrl = "https://account.garena.com/";
